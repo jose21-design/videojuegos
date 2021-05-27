@@ -27,52 +27,48 @@
             </div>
           </div>
         </div>
-        <section id="cursos" class="mt-4">
-            <div class="container">
+        
+            <div class="container mt-4">
                 <div class="row">
                     <div class="col text-center text-uppercase">
-                        <small>Conoce nuestros</small><h2>Cursos</h2>
+                        <small>Galería de</small><h2>eventos pasados</h2>
                     </div>
                 </div>
     
                 <div class="row">
                     <div class="col-12 col-md-4 col-lg-4 mb-4">
-                        <div class="card" >
-                            <img src="images/html.jpg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title">Html</h5>
-                              <p class="card-text">Es un  lenguaje de marcado que se utiliza para el desarrollo de páginas web.</p>
-                              <a href="#" class="btn btn-tecnoeduca" data-toggle="modal" data-target="#htmlModal">Ver curso</a>
-                            </div>
-                          </div>
+                         <img src="img/uno.jpg">
+                         Minecraft
                     </div>
         
                     <div class="col-12 col-md-4 col-lg-4 mb-4">
-                        <div class="card">
-                            <img src="images/css.jpg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title">Css</h5>
-                              <p class="card-text">Hojas de estilo en cascada, es el lenguaje de estilos utilizado para describir la presentación en documentos html.</p>
-                              <a href="#" class="btn btn-tecnoeduca">Ver curso</a>
-                            </div>
-                          </div>
+                         <img src="img/dos.jpg">
+                         <br> Realidad virtual
                     </div>
         
-                    <div class="col-12 col-md-4 col-lg-4 mb-2">
-                        <div class="card" >
-                            <img src="images/javascript.jpg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title">JavaScript</h5>
-                              <p class="card-text">Es un lenguaje de programación ligero, interpetado o compilado con funciones de primera clase.</p>
-                              <a href="#" class="btn btn-tecnoeduca">Ver curso</a>
-                            </div>
-                          </div>
+                    <div class="col-12 col-md-4 col-lg-4 mb-4">
+                         <img src="img/tres.jpg">
+                         Gaming en equipo
                     </div>
                 </div>
+
+                <div class="row">
+                  <div class="col-12 col-md-4 col-lg-4 mb-4">
+                       <img src="img/cuatro.jpg">
+                       <br> Rifa por nuestro 5 aniversario
+                  </div>
+      
+                  <div class="col-12 col-md-4 col-lg-4 mb-4">
+                       <img src="img/cinco.jpg">
+                       <br> Premios primeros lugares del KOF 2020
+                  </div>
+      
+                  <div class="col-12 col-md-4 col-lg-4 mb-4">
+                       <img src="img/seis.jpg">
+                       Patrocinios
+                  </div>
+              </div>
             </div>
-    
-            
-         </section>
         <!-- /Cursos -->
     
 </form>

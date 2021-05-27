@@ -5,10 +5,10 @@
       <span class="navbar-toggler-icon"></span>
     </button>
   
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <div class="collapse navbar-collapse text-size:30px" id="navi">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a class="nav-link" href="#">Tu tienda</a>
+          <a class="nav-link" href="{{ route('welcome') }}">Tu tienda</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Juegos</a>
@@ -21,8 +21,8 @@
           </li>
       </ul>
       <form class="form-inline my-2 my-lg-0">
-        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        <input class="form-control mr-sm-2" type="Buscar" placeholder="Buscar" aria-label="Buscar">
+        <button class="btn btn-secondary my-2 my-sm-0" type="submit">Ir</button>
       </form>
     </div>
   </nav>

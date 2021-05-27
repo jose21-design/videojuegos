@@ -2,35 +2,64 @@
 <footer id="footer" class="pb-4 pt-4">
     <div class="container">
         <div class="row">
-            <div class="col-12 col-lg ">
+            <div class="col-12 col-lg-3">
                 <div class="row">
                     <div class="col-12 col-lg-12 col-med-12">
-                        <h5>CONTÁCTANOS</h5>
-                    </div>
-
-                    <div class="col-12 col-lg-12 col-med-12">
-                        <p>5 de mayo #545</p>
+                        <h5>Sobre nosotros</h5>
                     </div>
                     <div class="col-12 col-lg-12 col-med-12">
-                        <p>4741234587</p>
+                        <p>Misión</p>
                     </div>
+                    <div class="col-12 col-lg-12 col-med-12">
+                        <p>Visión</p>
+                    </div>
+                    <div class="col-12 col-lg-12 col-med-12">
+                      <p>Blog</p>
+                  </div>
                 </div>
             </div>
-            <div class="col-12 col-lg ">
-                <div class="row">
-                    <div class="col-12 col-lg-12 col-med-12">
-                        <h5>NUESTRAS REDES SOCIALES</h5>
-                    </div>
-
-                    <div class="col-12 col-lg-12 col-med-12">
-                        <p>5 de mayo #545</p>
-                    </div>
-                    <div class="col-12 col-lg-12 col-med-12">
-                        <p>4741234587</p>
-                    </div>
+            <div class="col-12 col-lg-3">
+              <div class="row">
+                  <div class="col-12 col-lg-12 col-med-12">
+                      <h5>Ayuda y apoyo</h5>
+                  </div>
+                  <div class="col-12 col-lg-12 col-med-12">
+                      <p>Información de envío</p>
+                  </div>
+                  <div class="col-12 col-lg-12 col-med-12">
+                      <p>Devolución</p>
+                  </div>
+                  <div class="col-12 col-lg-12 col-med-12">
+                    <p>Rastreo</p>
                 </div>
+              </div>
+          </div>
+          <div class="col-12 col-lg-3">
+             <div class="row">
+                <div class="col-12 col-lg-12 col-med-12">
+                    <h5>Servicio al cliente</h5>
+                </div>
+                <div class="col-12 col-lg-12 col-med-12">
+                    <p>Contáctanos</p>
+                </div>
+                <div class="col-12 col-lg-12 col-med-12">
+                    <p>Rastreo</p>
+                </div>
+                <div class="col-12 col-lg-12 col-med-12">
+                  <p>Puntos</p>
+              </div>
             </div>
         </div>
+        <div class="col-12 col-lg-3">
+          <div class="row">
+             <div class="col-12 col-lg-12 col-med-12">
+                 <h5>Encuentranos en</h5>
+             </div>
+             <div class="col-12 col-lg-12 col-med-12">
+                 <img src="img/hola.PNG" alt="">
+             </div>
+         </div>
+    </div>
     </div>
 </footer>
 

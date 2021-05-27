@@ -16,3 +16,31 @@
         background: red;
         color: white;
     }
+
+    #main{
+        font-size: large;
+        }
+
+        #carousel{
+
+            position: relative;
+    
+        }
+        #carousel .overlay{
+    
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            color:white;
+            background-color: rgba(0, 0, 0, .7)
+    
+        }
+    
+        #carousel .overlay .container, .overlay .row{
+    
+            height: 100%;
+            
+        }
+    
