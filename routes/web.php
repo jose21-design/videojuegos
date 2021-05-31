@@ -19,6 +19,12 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
+Route::get('/products', 'ProductsController@index')->name('products');
+
+Route::get('/products/create', 'ProductsController@create')->name('create');
+
+Route::get('/products/store', 'ProductsController@store')->name('store');
+
 Route::get('/nosotros', function () {
     return view('nosotros');
 })->name('nosotros');

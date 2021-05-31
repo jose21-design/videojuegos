@@ -73,7 +73,6 @@
                 </div>
             </div>
         </nav>
-
         @include('header')
 
         <main>
