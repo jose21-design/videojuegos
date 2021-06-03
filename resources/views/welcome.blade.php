@@ -38,49 +38,59 @@
 <!-- Clase Online -->
 <div class="container mt-4">
   <div class="row">
-      <div class="col text-center text-uppercase">
+      <div class="col text-center text-uppercase py-4">
           <h2>XBOX ONE</h2>
       </div>
   </div>
 
   <div class="row">
-      <div class="col-12 col-md-4 col-lg-4 mb-4">
-           <img src="img/uno.jpg">
-           Minecraft
+      <div class="col-12 col-md-3 col-lg-3 mb-3">
+           <img src="img/viduno.png">
+           <br> Grand theft Auto
       </div>
 
-      <div class="col-12 col-md-4 col-lg-4 mb-4">
-           <img src="img/dos.jpg">
-           <br> Realidad virtual
+      <div class="col-12 col-md-3 col-lg-3 mb-3">
+           <img src="img/viddos.png">
+           <br> BattleField
       </div>
 
-      <div class="col-12 col-md-4 col-lg-4 mb-4">
-           <img src="img/tres.jpg">
-           Gaming en equipo
+      <div class="col-12 col-md-3 col-lg-3 mb-3">
+           <img src="img/vidtres.png">
+           <br> Forza
       </div>
+
+      <div class="col-12 col-md-3 col-lg-3 mb-3">
+        <img src="img/vidsiete.png">
+        <br> Call of duty
+   </div>
   </div>
 
   <div class="row">
-    <div class="col text-center text-uppercase">
-        <h2>PLAY STATION 4</h2>
+    <div class="col text-center text-uppercase py-4">
+        <h2>NINTENDO SWITCH</h2>
     </div>
 </div>
 
   <div class="row">
-    <div class="col-12 col-md-4 col-lg-4 mb-4">
-         <img src="img/cuatro.jpg">
-         <br> Rifa por nuestro 5 aniversario
+    <div class="col-12 col-md-3 col-lg-3 mb-3">
+         <img src="img/vidcuatro.png">
+         <br> Zelda
     </div>
 
-    <div class="col-12 col-md-4 col-lg-4 mb-4">
-         <img src="img/cinco.jpg">
-         <br> Premios primeros lugares del KOF 2020
+    <div class="col-12 col-md-3 col-lg-3 mb-3">
+         <img src="img/vidcinco.png">
+         <br> Mario Kart
     </div>
 
-    <div class="col-12 col-md-4 col-lg-4 mb-4">
-         <img src="img/seis.jpg">
-         Patrocinios
+    <div class="col-12 col-md-3 col-lg-3 mb-3">
+         <img src="img/vidseis.png">
+         <br>Minecraft
     </div>
+
+    <div class="col-12 col-md-3 col-lg-3 mb-3">
+      <img src="img/vidocho.png">
+      <br> Super Smash Bros
+ </div>
 </div>
 </div>
 <!-- End/clase online -->

@@ -5,7 +5,7 @@
 <div class="text-center py-4">
     <h1>Videojuegos</h1>
 </div>
-<div class="container">
+<div class="container py-4">
     <table class="table table-bordered">
         <thead>
             <tr>
@@ -23,7 +23,7 @@
                 <td>{{$product->tittle}}</td>
                 <td>{{$product->description}}</td>
                 <td>{{$product->ruta}}</td>
-                <td>Acciones</td>
+                <td> <a href="" class="btn btn-link">Editar</a> </td>
             </tr>
             @endforeach
         </tbody>

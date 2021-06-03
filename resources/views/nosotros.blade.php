@@ -5,7 +5,7 @@
     @csrf
     
 
-    <div class="text-center">
+    <div class="text-center py-4">
         <img src="img/captura.png" alt="" srcset="">
         <h1>Acerca de nosotros</h1><br>
     </div>

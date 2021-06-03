@@ -3,7 +3,7 @@
 @section('content')
 <form method="POST" action="{{ route('eventos') }}">
     @csrf
-    <h1 class="text-center">Próximos Eventos</h1>
+    <h1 class="text-center py-4">Próximos Eventos</h1>
         <div id="nueva" class="container-fluid mt-0 mb-0">
           <div class="row">
             <div class="col-lg-6 col-12 pl-0 pr-0">
@@ -69,7 +69,7 @@
                   </div>
               </div>
             </div>
-        <!-- /Cursos -->
+        
     
 </form>
 @endsection

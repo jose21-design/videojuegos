@@ -11,7 +11,7 @@
           <a class="nav-link" href="{{ route('welcome') }}">Tu tienda</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Juegos</a>
+          <a class="nav-link" href="{{ route('products') }}">Juegos</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="{{ route('nosotros') }}">Nosotros</a>
